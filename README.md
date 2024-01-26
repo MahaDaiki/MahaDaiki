@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maha Daiki</h1>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
-<img align="right" alt="" width="400" sec="[https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif](https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv)" >
+<img align="right" alt="" width="400" sec="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadaiki&label=Profile%20views&color=0e75b6&style=flat" alt="mahadaiki" /> </p>
 
