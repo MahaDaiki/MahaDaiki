@@ -19,6 +19,6 @@
 <img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<div align="center" >[![](https://visitcount.itsvg.in/api?id=MahaDaiki&icon=4&color=11)](https://visitcount.itsvg.in) </div>
+[![](https://visitcount.itsvg.in/api?id=MahaDaiki&icon=4&color=11)](https://visitcount.itsvg.in)
 
 
